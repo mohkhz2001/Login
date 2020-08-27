@@ -1,0 +1,4 @@
+#Thu Aug 27 19:17:21 IRDT 2020
+base.0=/home/mohammadkz/AndroidStudioProjects/Login/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
